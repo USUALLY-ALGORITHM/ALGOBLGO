@@ -16,7 +16,7 @@
 
 블로그를 1주 1개 이상 작성하기 목표
 
-|    날짜     | 세원 | 민정 |                        [상원](https://nowgnas.github.io)                         |
+|    날짜     | 세원 | [민정](https://isakacindy.github.io) |                        [상원](https://nowgnas.github.io)                         |
 | :---------: | :--: | :--: | :------------------------------------------------------------------------------: |
 | 11.17~11.23 |      |      | [Vue 프로젝트 생성과 todo list 만들기](https://nowgnas.github.io/posts/vuetodo/) |
 
