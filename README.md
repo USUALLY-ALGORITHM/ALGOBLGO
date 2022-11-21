@@ -4,7 +4,7 @@
 
 |  💁‍♀️  |  💁‍♀️  |  💁  |
 | :--: | :--: | :--: |
-| 민정 | 세원 | 상원 |
+| [민정](https://github.com/isakacindy) | [세원](https://github.com/nowesmik) | [상원](https://github.com/nowgnas) |
 
 ## What do we work
 
